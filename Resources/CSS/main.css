@@ -63,3 +63,7 @@ img {
     margin: 50px auto;
     width: 100%
 }
+
+li {
+    padding: 8px;
+}
